@@ -78,6 +78,7 @@ Earlier versions does not work.
 
 ## Screenshots
 ![nginx-module-sts screenshot](https://user-images.githubusercontent.com/3648408/41891509-be1e373e-794f-11e8-85bd-22ea6ca29d4a.png "screenshot with deault")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fnginx-module-sts.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fnginx-module-sts?ref=badge_shield)
 
 ## Installation
 
@@ -1207,3 +1208,7 @@ For examples:
 
 ## Author
 YoungJoo.Kim(김영주) [<vozltx@gmail.com>]
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fnginx-module-sts.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fnginx-module-sts?ref=badge_large)
